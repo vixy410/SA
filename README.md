@@ -1,3 +1,0 @@
-SA
-==
-Bootstrap WP Theme
